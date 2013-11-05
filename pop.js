@@ -42,8 +42,6 @@ function GameOn(){
 	mainPointer++;
 	if(mainPointer > images.length-1) {
 	
-	  //mainPointer = 0;
-	  window.location="end.html";
 	  mainPointer = 0;
 	  //window.location="end.html";
 	
