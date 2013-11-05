@@ -44,6 +44,8 @@ function GameOn(){
 	
 	  //mainPointer = 0;
 	  window.location="end.html";
+	  mainPointer = 0;
+	  //window.location="end.html";
 	
 	}
 }
